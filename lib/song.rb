@@ -25,4 +25,9 @@ class Song
     @@genres.uniq
 
 end
+
+def self.genres_count
+    @@genres.uniq
+
+end
 end
